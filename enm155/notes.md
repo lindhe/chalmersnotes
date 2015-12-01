@@ -136,4 +136,41 @@ Lf = [årsproduktion]/(installerad effekt * timmar på ett år)
 
 # Föreläsning 4
 
+<!--- Läs ”5.Azar. EnergyEfficiency” och sidorna 116 – 121 ”GEA_Chap1. Energy
+Primer”. -->
+
+Teoretisk potential är ofta vansinnigt hög, man kan ofta räkna utan luftmotstånd
+osv. Många processer skulĺe teoretiskt sett kunna kräva 0 energi, givet nog med
+resurser och tid.
+
+Bara för att det finns bra tekniker tillgängliga för att lösa ett problem
+betyder det inte att folk adopterar tekniken. Det behövs medel för att lura folk
+att vara smarta, och det kan vara:
+
+    * Subvensioneringar
+
+    * Förbud
+
+    * Lobbyism
+
+    * Skattelättnader/tryck
+
+    * Forskningspengar
+
+## Energiförbrukningen har generellt ökat med tiden
+
+Om energi är billigt görs små ansträngningar att effektivisera, men om det är
+dyrt "tvingas" man att utveckla och adoptera effektivare tekniker.
+
+Det kan vara svårt att begränsa befolkningstillväxten, ifall vi inte vill skada
+länders invånare... [DÖDA ALLA BARN #ABORT]
+ 
+Det finns stora möjligheter att minska energiförbrukningen genom effektivisering
+av massa grejer, men med en ökande befolkning kommer energiförbrukningskurvan
+vara ganska oförändrad.
+
+Det kan vara intressant, ur ett politiskt perspektiv, att jämföra och sträva mot
+ett lågt E/GDP, alltså låg energiintensitet. Då är både tillväxt och
+effektivitet bra! HURRA!!
+
 
